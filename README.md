@@ -19,7 +19,7 @@ Sprint içi puan Değerlendirme 100 üzerinden. Puan tamamlama mantığı: Proje
 Board ekran görüntüsü: ![oua board ekran görüntüsü](https://github.com/lutfullahsnr/OUA-Bootcamp-34/assets/86473095/a821f3a2-7153-4ce3-8bf7-8dc29d036c82)
 
 Sprint Review: Toplantılarda planlama yapılmış, çeşitli sistemlerin ve asetlerin planlaması yapılmıştır ve eksiklikler değerlendirilmiştir. 
-Sprint Review katılımcıları: MAİDE GÖKÇELİ, KEREM ÖZCAN, 
+Sprint Review katılımcıları: MAİDE GÖKÇELİ, KEREM ÖZCAN, LEVENT GÜNAYDIN, LÜTFULLAH ŞENER, MELİKE ATEŞ.
 
 Sprint Retrospective:
 Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır. Takımın görev dağılımı değişmiş hafifletmeler yapılmıştır.
