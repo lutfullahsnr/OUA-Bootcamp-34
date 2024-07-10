@@ -16,7 +16,7 @@ SPRINT 1
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 Sprint içi puan Değerlendirme 100 üzerinden. Puan tamamlama mantığı: Proje boyunca yapılan işlerin beklenen tamamlanma puanı 300'dır. İlk Sprint sınavı için istenilen puana 100 olarak ulaşılması gerekmektedir. Günlük Scrum: Whatsapp ve Discord üzerinden pazarlamalar sağlandı. Discord ve Whatsapp Ekran Görüntüleri https://cdn.discordapp.com/attachments/866440049801297941/1259877831702478889/IMG_20240708_160659.jpg?ex=668d482a&is=668bf6aa&hm=b44c5bb6fd5de895e7ebab6694ef2dc38d4097076904f6a8cc2fc1afcdb4b61c& 
-BOard ekran görüntüsü: ![oua board ekran görüntüsü](https://github.com/lutfullahsnr/OUA-Bootcamp-34/assets/86473095/a821f3a2-7153-4ce3-8bf7-8dc29d036c82)
+Board ekran görüntüsü: ![oua board ekran görüntüsü](https://github.com/lutfullahsnr/OUA-Bootcamp-34/assets/86473095/a821f3a2-7153-4ce3-8bf7-8dc29d036c82)
 
 Sprint Review: Toplantılarda planlama yapılmış, çeşitli sistemlerin ve asetlerin planlaması yapılmıştır ve eksiklikler değerlendirilmiştir. 
 Sprint Review katılımcıları: MAİDE GÖKÇELİ, KEREM ÖZCAN, 
