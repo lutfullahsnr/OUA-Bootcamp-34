@@ -50,7 +50,7 @@ Sprint içi puan Değerlendirme 100 üzerinden. Puan tamamlama mantığı: Proje
 (https://github.com/user-attachments/assets/0418f726-dfb5-4864-a121-9feed54b7ef7)
 
 -**Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-
+Sprint için belirli tasarılar yapılmış ve devamında gerekli sprint üç planlaması tamamlanmıştır. sprint ikinin tecrübeleriyle daha iyi bir sprint üç performansı için gerekli planlmalar yapılmıl ve norlat alınmıltır.
 
 
 Board ekran görüntüleri: gmrselleri:https://photos.app.goo.gl/8PqKb62QdfvDqQtSA
@@ -65,8 +65,6 @@ https://photos.app.goo.gl/ZcNtznvE7ZyCiKkt5
 ![WhatsApp Görsel 2024-07-22 saat 23 07 31_3086eab6](https://github.com/user-attachments/assets/971574ac-6888-44c9-82e5-f297b7c523b8)
 
 
-
-- **Sprint Notları**: 
 - **Sprint Review**:
     - Sprint 2'nin sonunda ekip ile toplantıda yapay zeka için tasarımlar gerçekleştirilmek üzere planlama yapıldı düznelmeler sprint üç için yapılacak.
     - Sprint Review katılımcıları.  Maide Gökçeli, Lütfullah Şener, Kerem Özcan, Melike Ateş, Levent Günaydın.
