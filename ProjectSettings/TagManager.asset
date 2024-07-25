@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: 1
+    uniqueID: 4167394229
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: "\xF6n "
+    uniqueID: 4202206749
+    locked: 0
+  - name: arka
+    uniqueID: 2969953749
     locked: 0

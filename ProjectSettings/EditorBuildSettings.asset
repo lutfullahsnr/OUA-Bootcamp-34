@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Giris.unity
+    guid: ac2448ed94ee0f5469084538fd0279e6
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 1.unity
+    guid: ff0969db68a49b646899be922fba3bd5
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 2.unity
+    guid: e0f60fed8a1dfc54aa3208b0bdcf96b1
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 3.unity
+    guid: cc8eae836cec29943bd0fd9034b3b03a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 4.unity
+    guid: 1d7aa710bfa286c459e00fdd890efcdf
   m_configObjects: {}
