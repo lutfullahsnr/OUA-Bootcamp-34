@@ -82,3 +82,31 @@ https://photos.app.goo.gl/ZcNtznvE7ZyCiKkt5
     
 
 
+
+
+Sprint 3
+Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintte olduğu gibi üçüncü sprint puanı 100 olarak belirlenmiştir.
+
+Daily Scrum: Daily Scrum toplantılarını sanal olarak WhatsApp üzerinden devam ettirdik.https://photos.app.goo.gl/uUTsRpLhvgsTEcSD7
+https://photos.app.goo.gl/dmyfYGkzMUuimEvr9
+https://photos.app.goo.gl/pNqxbzY1F8XDyJQW8
+
+Daily Scrum
+)
+Sprint board update: Sprint board screenshotı: https://photos.app.goo.gl/bekBsSZyhX3n9wvY7
+https://photos.app.goo.gl/1FAXV1YohDZLoiSs9
+
+Ürün Durumu: Ekran görüntüleri: https://photos.app.goo.gl/KLxNkSiELRUpdhnu6
+https://photos.app.goo.gl/VU6UDWP9AUcbEUQp6
+
+** Final Video**:  https://photos.app.goo.gl/bZyC8VkRgHE2hgqQ8
+
+Sprint Review:
+
+Takım ruhunu koruyup Scrum boyunca özveriyle çalışıldığı için takım üyeleri birbirini tebrik etti.
+ birden fazla platform kodları, farklı mekanikler, karakter ve platform animasyonları, online server sistemi, 2d tasarım assetleri ve reklam entegrasyonu yapılmıştır.
+Tamamlanması gereken 300 puanlık backlog puanı tamamlanmıştır.
+Sprint Review katılımcıları: Maide Gökçeli, Lütfullah Şener, Kerem Özcan, Melike Ateş, Levent Günaydın 
+Sprint Retrospective:
+Gelecek projelerde daha iyi dilekler sunuldu.
+Yapılması gerekenler konuşuldu, öneriler ve şikayetler bildirildi. Projedeki hatalar tespit edildi.
