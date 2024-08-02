@@ -85,7 +85,7 @@ https://photos.app.goo.gl/ZcNtznvE7ZyCiKkt5
 
 
 Sprint 3
-Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintte olduğu gibi üçüncü sprint puanı 100 olarak belirlenmiştir.
+Sprint içinde tamamlanması tahmin edilen puan: Önce ki sprintte olduğu gibi üçüncü sprint puanı 100 olarak belirlenmiştir.
 
 Daily Scrum: Daily Scrum toplantılarını sanal olarak WhatsApp üzerinden devam ettirdik.https://photos.app.goo.gl/uUTsRpLhvgsTEcSD7
 https://photos.app.goo.gl/dmyfYGkzMUuimEvr9
