@@ -5,9 +5,9 @@ Takım Üyeleri LÜTFULLAH ŞENER - Ürün Sahibi KEREM ÖZCAN - Geliştirici MA
 
 Ürün Geri Bildirimi URL'si https://miro.com/app/board/uXjVK0zgoz4=/
 
-Oyun Açıklaması: OYUNUMUZ BEŞ KİŞİYE KADAR OYNANABİLEN SOKAK OYUNLARINI DİJİTALE TAŞIMAYI AMAÇLAR. OYUNLAR ARASINDA GEÇİŞ YAPILABİLİR. BOLKLAR ARASINDA KONTROLLÜ GEÇİŞLER İLE HEDEFE ULAŞIP ÖDÜLÜ ALMATI AMAÇLAR.
+Oyun Açıklaması: OYUNUMUZ TEK KİŞİ BİR OYUNDUR, OYUNUMUZ KİŞİYİ DOĞRU TUŞLAMALARI YAPARAK FŞNALE ULAŞMASINI AMAÇLAR 
 
-Oyun Özellikleri 2d Çok Oyunculu
+Oyun Özellikleri 2d TEK Oyunculu
 
 Hedef Kitle Rekabetçi oyuncular 5+ PC oyuncuları
 
