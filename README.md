@@ -1,5 +1,5 @@
 OYUN-VE-UYGULAMA-AKADEM-S-2024-BOOTCAMP-GRUP-34
-Takım U21 Unity Takımı
+Takım OUA Unity Takımı
 
 Takım Üyeleri LÜTFULLAH ŞENER - Ürün Sahibi KEREM ÖZCAN - Geliştirici MAİDE GÖKÇELİ - Scrum Master MELİKE ATEŞ - Geliştirici KEVENT GÜNAYDIN ​​- Geliştirici Oyun İsmi
 
