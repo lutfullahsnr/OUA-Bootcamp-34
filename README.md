@@ -1,13 +1,13 @@
 OYUN-VE-UYGULAMA-AKADEM-S-2024-BOOTCAMP-GRUP-34
 Takım OUA Unity Takımı
 
-Takım Üyeleri LÜTFULLAH ŞENER - Ürün Sahibi KEREM ÖZCAN - Geliştirici MAİDE GÖKÇELİ - Scrum Master MELİKE ATEŞ - Geliştirici KEVENT GÜNAYDIN ​​- Geliştirici Oyun İsmi
+Takım Üyeleri LÜTFULLAH ŞENER - Ürün Sahibi KEREM ÖZCAN - Geliştirici MAİDE GÖKÇELİ - Scrum Master MELİKE ATEŞ - Geliştirici LEVENT GÜNAYDIN ​​- Geliştirici Oyun İsmi
 
 Ürün Geri Bildirimi URL'si https://miro.com/app/board/uXjVK0zgoz4=/
 
 Oyun Açıklaması: OYUNUMUZ BEŞ KİŞİYE KADAR OYNANABİLEN SOKAK OYUNLARINI DİJİTALE TAŞIMAYI AMAÇLAR. OYUNLAR ARASINDA GEÇİŞ YAPILABİLİR. BOLKLAR ARASINDA KONTROLLÜ GEÇİŞLER İLE HEDEFE ULAŞIP ÖDÜLÜ ALMATI AMAÇLAR.
 
-Oyun Özellikleri 3D Çok Oyunculu
+Oyun Özellikleri 2d Çok Oyunculu
 
 Hedef Kitle Rekabetçi oyuncular 5+ PC oyuncuları
 
