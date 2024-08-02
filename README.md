@@ -88,6 +88,11 @@ https://photos.app.goo.gl/ZcNtznvE7ZyCiKkt5
 
 
 Sprint içinde tamamlanması tahmin edilen puan: Önce ki sprintte olduğu gibi üçüncü sprint puanı 100 olarak belirlenmiştir.
+Sprint içi puan Değerlendirme 100 üzerinden. Puan tamamlama mantığı: Proje boyunca yapılan işlerin beklenen tamamlanma puanı 300'dır. Üçüncü Sprint sınavı için istenilen puana 100 olarak ulaşılması gerekmektedir. 
+
+Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+Sprint içinde tamamlanması gereken teslim ürünü tamamlanmış ve gönderilmiştir. Önceki sprintte planlananlar yapılmıştır.
+
 
 Daily Scrum: Daily Scrum toplantılarını sanal olarak WhatsApp üzerinden devam ettirdik.https://photos.app.goo.gl/uUTsRpLhvgsTEcSD7
 https://photos.app.goo.gl/dmyfYGkzMUuimEvr9
@@ -112,3 +117,10 @@ Sprint Review katılımcıları: Maide Gökçeli, Lütfullah Şener, Kerem Özca
 Sprint Retrospective:
 Gelecek projelerde daha iyi dilekler sunuldu.
 Yapılması gerekenler konuşuldu, öneriler ve şikayetler bildirildi. Projedeki hatalar tespit edildi.
+
+
+Sprint Retrospective:
+    - **Sprint 3 için alınan puan 100'dir.** Oyun temel düzeyde tasarlanmış ve gerekli melanikler tasarlanmıştır.
+    - Takım üyelerinin eksikleri ve hataları belirlenmiştir.
+   - Yapay zeka için sadece kod yardımı alınmasına karar verildi.
+    - Oyun tamamlandı.
